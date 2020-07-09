@@ -3,8 +3,8 @@
 Hi, it's Adriaan here! Cool that you're checking out my Github profile. I'm always up for a 
 
 ## More
-* [Personal website & blog](https://aknapen.nl)
-* [Website v2 (WIP)](https://v2.aknapen.nl)
+* [https://aknapen.nl](https://aknapen.nl) - Personal website & blog
+* [https://v2.aknapen.nl](https://v2.aknapen.nl) - Updated website (WIP)
 
 ## Social
 [![Addono@Github](https://img.shields.io/badge/Github-@Addono-black?style=for-the-badge&logo=github)](https://github.com/Addono)
