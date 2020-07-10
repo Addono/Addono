@@ -16,4 +16,4 @@ Hi, it's Adriaan here! Cool that you're checking out my Github profile. I love t
 [![hi@aknapen.nl](https://img.shields.io/badge/Email-hi@aknapen.nl-8B89CC?style=for-the-badge&logo=protonmail)](mailto:hi@aknapen.nl)
 
 [![adriaan-knapen@LinkedIn](https://img.shields.io/badge/LinkedIn-adriaan--knapen-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adriaan-knapen)
-<img src="https://addono-github.goatcounter.com/count?p=/profile" />
+
