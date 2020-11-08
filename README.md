@@ -1,4 +1,4 @@
-# Adriaan Knapen - @addono
+# Adriaan Knapen - @Addono
 
 Hi, it's Adriaan here! Cool that you're checking out my Github profile. I love to talk about what I am/used to be working at, so feel free to reach out if there's anything which strikes you as interesting.
 
