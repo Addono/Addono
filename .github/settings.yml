@@ -38,5 +38,11 @@ repository:
   allow_rebase_merge: true
 
 labels:
-  - name: automerge
+  - name: Feature Request
+    color: a9f913
 
+  - name: Improvement
+    color: f9d0c4
+
+  - name: Bug
+    color: b60205
