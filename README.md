@@ -6,7 +6,7 @@ Hi, it's Adriaan here! Cool that you're checking out my Github profile. I love t
 
 ## More
 * [https://aknapen.nl](https://aknapen.nl) - Personal website & blog
-* [https://v2.aknapen.nl](https://v2.aknapen.nl) - Updated website (WIP)
+* [https://v2.aknapen.nl](https://v2.aknapen.nl) - Portfolio website (WIP)
 
 ## Social
 
