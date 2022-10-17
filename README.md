@@ -2,7 +2,9 @@
 
 Hi, it's Adriaan here! Cool that you're checking out my Github profile. I love to talk about what I am/used to be working at, so feel free to reach out if there's anything which strikes you as interesting.
 
-![](https://github-readme-stats.vercel.app/api?username=addono&show_icons=true&count_private=true&include_all_commits=true&bg_color=32,e96443,904e95&title_color=fff&text_color=fff&icon_color=dddddd)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=addono&show_icons=true&count_private=true&include_all_commits=true&bg_color=32,e96443,904e95&title_color=fff&text_color=fff&icon_color=dddddd) -->
+
+![GitHub Metrics](./github-metrics.svg)
 
 ## More
 * [https://aknapen.nl](https://aknapen.nl) - Personal website & blog
