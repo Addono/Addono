@@ -35,6 +35,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          base_hireable: yes
           repositories: 200  # Puts an upper-limit on the amount of repositories to fetch, increasing this can exhaust GitHub's rate-limits
           config_timezone: Europe/Amsterdam
           plugin_achievements: yes
