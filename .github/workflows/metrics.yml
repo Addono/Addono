@@ -35,8 +35,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_timezone: Europe/Helsinki
+          repositories: 200  # Puts an upper-limit on the amount of repositories to fetch, increasing this can exhaust GitHub's rate-limits
+          config_timezone: Europe/Amsterdam
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+          plugin_traffic: true
