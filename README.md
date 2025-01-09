@@ -7,8 +7,9 @@ Hi, it's Adriaan here! Cool that you're checking out my GitHub profile. I love t
 ![GitHub Metrics](./github-metrics.svg)
 
 ## More
-* [https://aknapen.nl](https://aknapen.nl) - Personal website & blog
-* [https://v2.aknapen.nl](https://v2.aknapen.nl) - Portfolio website (WIP)
+* [https://aknapen.nl](https://aknapen.nl) - Personal website
+* [https://aknapen.nl](https://aknapen.nl/blog) - Personal blog
+* [https://cv.aknapen.nl](https://cv.aknapen.nl) - Complete CV (PDF)
 
 ## Social
 
