@@ -6,6 +6,8 @@ Hi, it's Adriaan here! Cool that you're checking out my GitHub profile. I love t
 
 ![GitHub Metrics](./github-metrics.svg)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Addono/Hathitrust-downloader,Addono/secret-hitler,Addono/docusaurus-plugin-goatcounter,Addono/container-registry-proxy,Addono/bull-board-docker,Addono/react-persisted-global-state,Addono/worldcat-scraper,Addono/LISA,Addono/Django-Kubernetes-DevOps&type=Date)](https://star-history.com/#Addono/Hathitrust-downloader&Addono/secret-hitler&Addono/docusaurus-plugin-goatcounter&Addono/container-registry-proxy&Addono/bull-board-docker&Addono/react-persisted-global-state&Addono/worldcat-scraper&Addono/LISA&Addono/Django-Kubernetes-DevOps&Date)
+
 ## More
 * [https://aknapen.nl](https://aknapen.nl) - Personal website
 * [https://aknapen.nl](https://aknapen.nl/blog) - Personal blog
