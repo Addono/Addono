@@ -1,6 +1,9 @@
 # Adriaan Knapen - @Addono
 
-Hi, it's Adriaan here! Cool that you're checking out my GitHub profile. I love to talk about what I am/used to be working at, so feel free to reach out if there's anything which strikes you as interesting.
+Hi, Adriaan here! Always happy when people check out my GitHub profile — it showcases a lot of my past projects, including personal geeky stuff and small entrepreneurial ventures.
+
+These days, I’m working as a freelancer. If you’re interested in working with me professionally, feel free to reach out at [`hi@aknapen.nl`](mailto:hi@aknapen.nl). You can find my CV at [cv.aknapen.nl](https://cv.aknapen.nl), and explore all my public projects by browsing my GitHub profile. Cheers!
+
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=addono&show_icons=true&count_private=true&include_all_commits=true&bg_color=32,e96443,904e95&title_color=fff&text_color=fff&icon_color=dddddd) -->
 
